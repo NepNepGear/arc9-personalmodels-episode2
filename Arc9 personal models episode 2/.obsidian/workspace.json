@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ammunition/Rifle Ammo/5.45x39mm.md",
+                "file": "Guns/How Guns are selected.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.45x39mm"
+              "title": "How Guns are selected"
             }
           }
         ]
@@ -210,7 +210,11 @@
   "active": "dd79049a64e8dc4f",
   "lastOpenFiles": [
     "Ammunition/Rifle Ammo/5.56x45 NATO.md",
+    "Guns/How Guns are selected.md",
+    "Guns/Handgun",
+    "Guns",
     "Ammunition/Rifle Ammo/5.45x39mm.md",
+    "Stats/How Stats are determined.md",
     "Ammunition/Pistol Ammo/(dot)357 Magnum.md",
     "Ammunition/Pistol Ammo/(dot)44 Magnum.md",
     "Ammunition/Pistol Ammo/5.7x28mm.md",
@@ -220,7 +224,6 @@
     "Ammunition/Rifle Ammo",
     "Ammunition/Untitled.md",
     "Ammunition/Pistol Ammo/(dot) 50 AE.md",
-    "Stats/How Stats are determined.md",
     "Ammunition/Pistol Ammo",
     "Stats",
     "Welcome.md",
