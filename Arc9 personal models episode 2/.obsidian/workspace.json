@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guns/How Guns are selected.md",
+                "file": "Guns/Submachine Gun/MP5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How Guns are selected"
+              "title": "MP5"
             }
           }
         ]
@@ -209,14 +209,19 @@
   },
   "active": "dd79049a64e8dc4f",
   "lastOpenFiles": [
-    "Ammunition/Rifle Ammo/5.56x45 NATO.md",
+    "Ammunition/Pistol Ammo/(dot)357 Magnum.md",
+    "Guns/Submachine Gun/MP5.md",
+    "Ammunition/Pistol Ammo/(dot)44 Magnum.md",
+    "Stats/How Stats are determined.md",
     "Guns/How Guns are selected.md",
+    "Guns/Snipers",
+    "Guns/Assault Rifle",
+    "Guns/Submachine Gun",
+    "Guns/Handgun/FN HighPower.md",
+    "Ammunition/Rifle Ammo/5.56x45 NATO.md",
     "Guns/Handgun",
     "Guns",
     "Ammunition/Rifle Ammo/5.45x39mm.md",
-    "Stats/How Stats are determined.md",
-    "Ammunition/Pistol Ammo/(dot)357 Magnum.md",
-    "Ammunition/Pistol Ammo/(dot)44 Magnum.md",
     "Ammunition/Pistol Ammo/5.7x28mm.md",
     "Ammunition/Pistol Ammo/9x19mm Para.md",
     "Ammunition/Pistol Ammo/45 ACP.md",
