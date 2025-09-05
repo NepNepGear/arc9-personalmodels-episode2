@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guns/Submachine Gun/MP5.md",
+                "file": "Stats/How Stats are determined.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MP5"
+              "title": "How Stats are determined"
             }
           }
         ]
@@ -209,10 +209,10 @@
   },
   "active": "dd79049a64e8dc4f",
   "lastOpenFiles": [
-    "Ammunition/Pistol Ammo/(dot)357 Magnum.md",
     "Guns/Submachine Gun/MP5.md",
-    "Ammunition/Pistol Ammo/(dot)44 Magnum.md",
     "Stats/How Stats are determined.md",
+    "Ammunition/Pistol Ammo/(dot)357 Magnum.md",
+    "Ammunition/Pistol Ammo/(dot)44 Magnum.md",
     "Guns/How Guns are selected.md",
     "Guns/Snipers",
     "Guns/Assault Rifle",
